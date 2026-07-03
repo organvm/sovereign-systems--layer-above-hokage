@@ -1,0 +1,3 @@
+# Discovery Thesis: organvm/sovereign-systems--layer-above-hokage
+
+The latent value of this repository lies in its `vacuum-detector` algorithm. This algorithm provides a structured, automated way to identify, classify, and prioritize knowledge gaps ("vacuums") across domains based on missing causal links, uncaptured data, or absent statistics. This is a reusable capability that the rest of the estate can leverage to systematically expose areas requiring study or measurement, effectively turning qualitative gaps into actionable research tasks. The single best concrete first task is to package `phase-3_research-atlas/vacuum-detector` as an importable module or a CLI tool so that other organs can feed it claims or documents and receive structured `Vacuum` reports.
